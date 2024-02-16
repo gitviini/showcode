@@ -2,8 +2,8 @@
 
 by: [@v.ii.n.i](https://instagram.com/v.ii.n.i)
 
-    I want play with program and do this.
-    It's a manager files that use OS library python.
+    I want to play with programming and I decided to do that.
+    It is a file manager that use python's OS library.
 
 <img src='showcode.png' width='25%'>
 
